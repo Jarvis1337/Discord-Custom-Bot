@@ -45,16 +45,10 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ```json
 {
-  "TOKEN": "",
-  "YOUTUBE_API_KEY": "",
-  "SOUNDCLOUD_CLIENT_ID": "",
-  "MAX_PLAYLIST_SIZE": ,
-  "PREFIX": "_i",
-  "PRUNING": ,
-  "STAY_TIME": ,
-  "LOCALE": "en",
-  "support_server": "",
-  "DEFAULT_VOLUME": 100
+  "token": "", // Your-Discord-Token
+  "prefix": "GR!",
+  "mongoPath": "mongo path here",
+  "redisPath": "redis path here"
 }
 ```
 
