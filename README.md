@@ -45,7 +45,7 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ```json
 {
-  "token": "", // Your-Discord-Token
+  "token": "", //Your-Discord-Token//
   "prefix": "GR!",
   "mongoPath": "mongo path here",
   "redisPath": "redis path here"
