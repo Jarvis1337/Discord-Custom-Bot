@@ -1,12 +1,18 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/)
 
+----
+
 # 🤖 ***Simple Custom Bot***
 > ***Simple Custom Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)***
+
+----
 
 ## Installation
 
 1. How to obtain a Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 2. Node.js v12.0.0 or newer
+
+----
 
 ## 🏁 Starting
 
@@ -37,6 +43,8 @@ After installation finishes you can use `node index.js` to start the bot.
 Type (npm i) in console
 ```
 
+----
+
 ## ⚙️ Making Files
 
 Copy or Rename `config.json.example` to `config.json` and fill out the values:
@@ -52,3 +60,8 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 }
 ```
 
+----
+
+                                       © 2021 — Made by 𝘐𝘤𝘰𝘯𝘪𝘤 𝘧𝘧 乛 ᴿᴸᴰ ⛊_ꜱᴰ 🚬 #0001 with ♥
+
+----
