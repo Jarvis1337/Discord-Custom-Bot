@@ -62,6 +62,6 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ----
 
-                                       © 2021 — Made by 𝘐𝘤𝘰𝘯𝘪𝘤 𝘧𝘧 乛 ᴿᴸᴰ ⛊_ꜱᴰ 🚬 #0001 with ♥
+© 2021 — Made by 𝘐𝘤𝘰𝘯𝘪𝘤 𝘧𝘧 乛 ᴿᴸᴰ ⛊_ꜱᴰ 🚬 #0001 with ♥
 
 ----
