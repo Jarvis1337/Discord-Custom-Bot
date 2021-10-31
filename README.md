@@ -62,6 +62,6 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ----
 
-*© 2021 — Made By Your's Jarvis #2431 with ♥*
+*`© 2021 — Made By Your's Jarvis #2431 with ♥`*
 
 ----
