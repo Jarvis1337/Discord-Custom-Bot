@@ -40,7 +40,7 @@ git clone https://github.com/Yours-Jarvis/Discord-Custom-Bot
 npm install
 ```
 
-After installation finishes you can use `node index.js` to start the bot.
+***After installation finishes you can use `node index.js` to start the bot.***
 
 ```
 Type (npm i) in console
