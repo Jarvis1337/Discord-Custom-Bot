@@ -9,22 +9,22 @@
 
 ## Installation
 
-1. How to obtain a Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
-2. Node.js v12.0.0 or newer
+***1. How to obtain a Discord Bot Token [Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)***  
+***2. Node.js v12.0.0 or newer***
 
 ----
 
 ## 🏁 Starting
 
-I will prefer to run it on repl.it as it gives more convinience than glitch website.. Go to repl.it [here](https://repl.it/).To gain free hacker plan, go to [here](https://repl.it/claim) and paste this code there
+***I will prefer to run it on repl.it as it gives more convinience than glitch website.. Go to repl.it [here](https://repl.it/).To gain free hacker plan, go to [here](https://repl.it/claim) and paste this code there***
 
-Code - *`Jarvis`*
+***Code - `Jarvis`***
 
 ----
 
 ## 🔥 A Major Outlook
 
-*After Completing all the required installments and the changes head over to Uptime Robot [here](https://uptimerobot.com/) and login there..Choose the monitor as `https`.Then you would need a link..You could get the link in the web section of you project..First time if you dont run the project you could not see that section.Run the project and you could see it.Then paste the link in uptime robot and take any name and click monitor..And your project will be online 24/7..*
+***After Completing all the required installments and the changes head over to Uptime Robot [here](https://uptimerobot.com/) and login there..Choose the monitor as `https`.Then you would need a link..You could get the link in the web section of you project..First time if you dont run the project you could not see that section.Run the project and you could see it.Then paste the link in uptime robot and take any name and click monitor..And your project will be online 24/7..***
 
 ***We Are Also Gonna Add Some More New Amazing & Existing Features... And Also Give A Good Look To Our `Discord Custom Bot`***
 ***🚀 Please [follow](https://github.com/Yours-Jarvis) on [GitHub](https://github.com/Yours-Jarvis) to stay tuned with us for more Exciting future Updates like this.***
@@ -50,7 +50,7 @@ Type (npm i) in console
 
 ## ⚙️ Making Files
 
-Copy or Rename `config.json.example` to `config.json` and fill out the values:
+***Copy or Rename `config.json.example` to `config.json` and fill out the values:***
 
 🚨🚨 **Commiting your token to be accessed by others or making it public is strictly prohibited.So, dont share your token in any cost or use .gitignore to hide secrets** 🚨🚨
 
