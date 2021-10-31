@@ -33,7 +33,7 @@ After Completing all the required installments and the changes head over to Upti
 **For PC users using VS Code** -
 
 ```
-git clone https://github.com/Yours-Jarvis/Simple-Custom-Bot
+git clone https://github.com/Yours-Jarvis/Discord-Custom-Bot
 npm install
 ```
 
