@@ -2,7 +2,7 @@
 
 ----
 
-# 🤖 ***Simple Custom Bot***
+# 🤖 ***Discord Custom Bot***
 > ***Simple Custom Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)***
 
 ----
