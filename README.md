@@ -18,11 +18,11 @@
 
 I will prefer to run it on repl.it as it gives more convinience than glitch website.. Go to repl.it [here](https://repl.it/).To gain free hacker plan, go to [here](https://repl.it/claim) and paste this code there
 
-Code - *`Iconicff31A`*
+Code - *`Jarvis`*
 
 ----
 
-## 🧐 A Major Outlook
+## 🔥 A Major Outlook
 
 After Completing all the required installments and the changes head over to Uptime Robot [here](https://uptimerobot.com/) and login there..Choose the monitor as `https`.Then you would need a link..You could get the link in the web section of you project..First time if you dont run the project you could not see that section.Run the project and you could see it.Then paste the link in uptime robot and take any name and click monitor..And your project will be online 24/7..
 
@@ -33,7 +33,7 @@ After Completing all the required installments and the changes head over to Upti
 **For PC users using VS Code** -
 
 ```
-git clone https://github.com/Itz-Iconic-ff-31/Simple-Custom-Bot
+git clone https://github.com/Yours-Jarvis/Simple-Custom-Bot
 npm install
 ```
 
@@ -62,6 +62,6 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ----
 
-© 2021 — Made by 𝘐𝘤𝘰𝘯𝘪𝘤 𝘧𝘧 乛 ᴿᴸᴰ ⛊_ꜱᴰ 🚬 #0001 with ♥
+*© 2021 — Made By Your's Jarvis #2431 with ♥*
 
 ----
