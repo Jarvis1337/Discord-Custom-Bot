@@ -22,7 +22,7 @@ const config = require('./config.json')
 client.on("ready", () => {
   client.user.setStatus("dnd")
   function randomStatus() {
-    let status = ["Itz-Iconic-ff-31 Github Repositories"]
+    let status = ["Bot Host By Your's Jarvis - https://github.com/Yours-Jarvis"]
     let rstatus = Math.floor(Math.random() * status.length);
 
 
