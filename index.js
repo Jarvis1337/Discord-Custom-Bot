@@ -2,7 +2,7 @@ const express = require('express')
 const app = express();
 const port = 3000
 
-app.get('/', (req, res) => res.send('© 2021 — Made by 𝘐𝘤𝘰𝘯𝘪𝘤 𝘧𝘧 乛 ᴿᴸᴰ ⛊_ꜱᴰ 🚬 #0001 with ♥'))
+app.get('/', (req, res) => res.send("© 2021 — Made By Your's Jarvis #2431 with ♥"))
 
 app.listen(port, () =>
 console.log(`Your app is listening a http://localhost/${port}`)
@@ -45,5 +45,8 @@ client.on('ready', () => {
 client.login(config.token)
 
 /***
- © 2021 — Made by 𝘐𝘤𝘰𝘯𝘪𝘤 𝘧𝘧 乛 ᴿᴸᴰ ⛊_ꜱᴰ 🚬 #0001 with ♥ 
+
+Do Not Share code Without Credit 
+
+ © 2021 — Made By Your's Jarvis #2431 with ♥ 
 ***/
