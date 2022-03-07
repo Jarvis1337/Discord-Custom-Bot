@@ -1,6 +1,6 @@
 {
   "token": "",
-  "prefix": "GR!",
+  "prefix": "YJ!",
   "mongoPath": "mongo path here",
   "redisPath": "redis path here"
 }
